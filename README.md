@@ -1,2 +1,2 @@
 # CV-Image
-Deep Learning Image Project
+Hello, this project classifies different images accurately.
